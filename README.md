@@ -1,5 +1,4 @@
 # Clothing-Store-Management-System
-Clothing Store Management System without database
 __A highly customisable, open source Clothing Store Management System without database :written in Java__
 
 ### Setup, help & support, FAQs
