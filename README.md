@@ -5,7 +5,7 @@ __A highly customisable, open source Clothing Store Management System without da
 Head over the file on the server ant it will start working
 If you don't find what you're looking for there, [talk to a human](#discussion). Please do not use our issue tracker for support requests.
 
-
+[![images](https://github.com/fatih/images/blob/master/asset/dia.png)](https://github.com/fatih/images)
 
 ### Can I contribute?
 Yes you can! Contributions are welcomed, Pull Request or opening an Issue.
