@@ -2,7 +2,7 @@
 __A highly customisable, open source Clothing Store Management System without database :written in Java__
 
 ### Setup, help & support, FAQs
-Head over the file on NETBEANS IDE ant run the program
+Head over the file on NETBEANS IDE and run the program
 If you don't find what you're looking for there, [talk to a human](#discussion). Please do not use our issue tracker for support requests.
 
 [![images](https://github.com/yugn27/Clothing-Store-Management-System/blob/master/Screenshot/1.png)](https://github.com/yugn27/Clothing-Store-Management-System)
